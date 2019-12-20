@@ -2,7 +2,7 @@
 
 Implement json web token with nodejs,jwt and express
 
-### Avilable commonds
+### Avilable commands
 
 npm start
 
